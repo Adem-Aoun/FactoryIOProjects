@@ -35,6 +35,16 @@ QueueOfItems(CT)_V17/
     ├── Full Panel      (Sensors + Actuators + State Monitor)
     └── Manual Screen   (Direct actuator control)
 ```
+## 🖼️ HMI Interface
+
+### Root Screen
+![Root Screen](assets/images/root_screen.png)
+
+### Full Panel
+![Full Panel](Pictures/images/full_panel_screen.png)
+
+### Manual Mode
+![Manual Mode](Pictures/images/manual_mode_screen.png)
 
 ---
 
