@@ -22,7 +22,7 @@ The machine picks lids from a belt conveyor, places them onto bases from a rolle
 ---
 ## Demo
 
-[▶️ Watch Full System Demo](Video/Demo.mp4)
+[▶️ Watch Full System Demo](assets/videos/Demo.mp4)
 
 --- 
 ## 🖼️ HMI Interface
