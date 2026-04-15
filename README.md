@@ -41,10 +41,10 @@ QueueOfItems(CT)_V17/
 ![Root Screen](assets/images/root_screen.png)
 
 ### Full Panel
-![Full Panel](Pictures/images/full_panel_screen.png)
+![Full Panel](assets/images/full_panel_screen.png)
 
 ### Manual Mode
-![Manual Mode](Pictures/images/manual_mode_screen.png)
+![Manual Mode](assets/images/manual_mode_screen.png)
 ---
 
 ## Operation Modes
