@@ -45,7 +45,6 @@ QueueOfItems(CT)_V17/
 
 ### Manual Mode
 ![Manual Mode](Pictures/images/manual_mode_screen.png)
-
 ---
 
 ## Operation Modes
