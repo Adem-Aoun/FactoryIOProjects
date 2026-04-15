@@ -28,13 +28,13 @@ The machine picks lids from a belt conveyor, places them onto bases from a rolle
 ## 🖼️ HMI Interface
 
 ### Root Screen
-![Root Screen](Pictures/root_screen.png)
+![Root Screen](assets/images/root_screen.png)
 
 ### Full Panel
-![Full Panel](Pictures/full_panel_screen.png)
+![Full Panel](assets/images/full_panel_screen.png)
 
 ### Manual Mode
-![Manual Mode](Pictures/manual_mode_screen.png)
+![Manual Mode](assets/images/manual_mode_screen.png)
 
 ---
 ## Project Structure
