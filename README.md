@@ -20,7 +20,23 @@ The machine picks lids from a belt conveyor, places them onto bases from a rolle
 | **HMI** | WinCC Advanced V17 — 3 screens |
 
 ---
+## Demo
 
+[▶️ Watch Full System Demo](Video/Demo.mp4)
+
+--- 
+## 🖼️ HMI Interface
+
+### Root Screen
+![Root Screen](Pictures/root_screen.png)
+
+### Full Panel
+![Full Panel](Pictures/full_panel_screen.png)
+
+### Manual Mode
+![Manual Mode](Pictures/manual_mode_screen.png)
+
+---
 ## Project Structure
 
 ```
@@ -98,5 +114,4 @@ Step 10 → Output assembled part, count, loop to Step 0
 
 ## Author
 
-**Aoun Adem Tayeb** — Automation & Control Systems Engineer  
-M.Sc. Automatique et Systèmes Embarqués — Université Ferhat Abbas Sétif 1
+**Aoun Adem** 
