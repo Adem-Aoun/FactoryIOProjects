@@ -112,5 +112,4 @@ Step 10 → Output assembled part, count, loop to Step 0
 
 ## Author
 
-**Aoun Adem Tayeb** — Automation & Control Systems Engineer  
-M.Sc. Automatique et Systèmes Embarqués — Université Ferhat Abbas Sétif 1
+**Aoun Adem Tayeb** 
