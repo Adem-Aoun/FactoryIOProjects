@@ -2,7 +2,12 @@
 > Conveyor queue management with item tracking — TIA Portal V17 + Factory IO + WinCC Advanced
 
 ---
+## 🎥 Project Demonstration
+Check out the system in action, featuring the full automation loop and HMI monitoring:
 
+[![Assembler Project Demo](https://img.youtube.com/vi/l-7emgcmtEQ/0.jpg)](https://www.youtube.com/watch?v=l-7emgcmtEQ)
+
+---
 ## Overview
 
 Two-conveyor system that tracks items through an entry and exit point using CTU counters.  
