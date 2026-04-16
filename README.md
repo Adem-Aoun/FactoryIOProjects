@@ -3,9 +3,9 @@
 
 ---
 ## 🎥 Project Demonstration
-Check out the system in action, featuring the full automation loop and HMI monitoring:
+See the full sequence including the advanced HMI controls and SCL logic execution:
 
-[![Assembler Project Demo](https://img.youtube.com/vi/l-7emgcmtEQ/0.jpg)]([https://www.youtube.com/watch?v=l-7emgcmtEQ](https://www.youtube.com/watch?v=HKS3AyJMBto))
+[![PLC Assembler System Demo](https://img.youtube.com/vi/HKS3AyJMBto/0.jpg)](https://www.youtube.com/watch?v=HKS3AyJMBto)
 
 ---
 ## Overview
