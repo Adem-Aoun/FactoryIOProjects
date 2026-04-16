@@ -48,8 +48,6 @@ Entry conveyor feeds items to the buffer conveyor. The system counts items at th
 
 ### HMI Screen
 ![Auto Screen](assets/images/auto_panel.png)
-
-### Full Panel
 ![Manual Screen](assets/images/manual_panel.png)
 
 ---
